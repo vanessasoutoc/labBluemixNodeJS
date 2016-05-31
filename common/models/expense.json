@@ -1,0 +1,31 @@
+{
+  "name": "expense",
+  "plural": "expenses",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "category": {
+      "type": "string",
+      "required": true
+    },
+    "item": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "number",
+      "required": true
+    },
+    "expensedate": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

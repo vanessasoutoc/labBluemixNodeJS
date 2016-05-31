@@ -1,0 +1,10 @@
+{
+  "db": {
+    "url": "https://3d40335b-9be2-43c3-8c03-35189f0727ff-bluemix:2045286d500332ccc8bb18a1d79668362e48cd4ec22d205b9bfbff4fd3919d58@3d40335b-9be2-43c3-8c03-35189f0727ff-bluemix.cloudant.com",
+    "database": "expenser-tracker",
+    "username": "3d40335b-9be2-43c3-8c03-35189f0727ff-bluemix",
+    "password": "2045286d500332ccc8bb18a1d79668362e48cd4ec22d205b9bfbff4fd3919d58",
+    "name": "db",
+    "connector": "cloudant"
+  }
+}
